@@ -1,0 +1,32 @@
+body{
+    background-color:#31906E;
+}
+
+.nav-link{
+    color: white;
+    margin: 20px;
+    padding-right: 300px;
+
+}
+
+
+
+.animate{
+    color:white;
+    font-size:x-large;
+    width: 500px;
+ 
+}
+
+.container{
+    color: white;
+}
+
+.crd-title{
+    color: black;
+}
+.nav-link h2:hover{
+    color: white;
+    font-size: 20px;
+
+}
